@@ -1,6 +1,4 @@
-# Jiffy
-
-![jiffy](https://github.com/reisir/jiffy/assets/93496808/218b4c54-6b2c-4b70-9d45-e1239cd9109e)
+#Giffie
 
 Rainmeter skin to display any image, animated or not. Drag n Drop an image into any instance of Jiffy to create a new one.
 
@@ -13,7 +11,7 @@ Rainmeter skin to display any image, animated or not. Drag n Drop an image into 
 - Handles .gif images
 - Handles animated .webp images
 
-# TODO:
+# REISIR'S WISH:
 
 - [ ] Learn how to build ffmpeg to bundle in a version with only the image encoders enabled
 - [ ] Handle static images
@@ -23,3 +21,7 @@ Rainmeter skin to display any image, animated or not. Drag n Drop an image into 
   - Figure out what the maximum image size in Rainmeter is
   - Scale the output in FFMPEG to fit within Rainmeter limits (better performance, less code)
   - Split the output to multiple stitched images `floor(max / framewidth)` (no limitations (frame can't be bigger than max rainmeter image skull))
+
+# Credits
+
+Original [Jiffy](https://github.com/reisir/jiffy) by [@reisir](https://github.com/reisir)
