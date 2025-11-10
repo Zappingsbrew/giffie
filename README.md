@@ -1,4 +1,4 @@
-#Giffie
+# Giffie
 
 Rainmeter skin to display any image, animated or not. Drag n Drop an image into any instance of Jiffy to create a new one.
 
